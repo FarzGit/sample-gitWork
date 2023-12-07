@@ -9,6 +9,7 @@ bck
 no i cannot do that
 yes we can
 
+<<<<<<< HEAD
 
 this for test git add
 
@@ -16,3 +17,5 @@ this for test git add
 
 sdfgdsfgdsfg
 
+
+ 42b2cc754924c138c722cdd8324babc0c359c2f1
